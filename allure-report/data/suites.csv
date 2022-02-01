@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Dec 22 16:05:54 GST 2021","Wed Dec 22 16:06:12 GST 2021","17248","","Parabank register and login scenarios","","Parabank register and login scenarios","Verify that user should be able to register successfully","Verify that user should be able to register successfully",""

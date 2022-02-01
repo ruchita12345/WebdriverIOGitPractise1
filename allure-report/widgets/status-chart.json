@@ -1,0 +1,11 @@
+[ {
+  "uid" : "ba6bc1584855dfff",
+  "name" : "Verify that user should be able to register successfully",
+  "time" : {
+    "start" : 1640174754886,
+    "stop" : 1640174772134,
+    "duration" : 17248
+  },
+  "status" : "failed",
+  "severity" : "critical"
+} ]

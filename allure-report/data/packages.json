@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Parabank register and login scenarios",
+    "children" : [ {
+      "name" : "Verify that user should be able to register successfully",
+      "uid" : "ba6bc1584855dfff",
+      "parentUid" : "5b96c07c5d7cf04b0c0afbc18bb8e4a9",
+      "status" : "failed",
+      "time" : {
+        "start" : 1640174754886,
+        "stop" : 1640174772134,
+        "duration" : 17248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "5b96c07c5d7cf04b0c0afbc18bb8e4a9"
+  } ]
+}

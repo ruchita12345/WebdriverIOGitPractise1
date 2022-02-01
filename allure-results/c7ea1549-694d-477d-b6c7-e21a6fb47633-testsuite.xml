@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1640179650250' stop='1640179669772'>
+    <name>Parabank register and login scenarios</name>
+    <title>Parabank register and login scenarios</title>
+    <test-cases>
+        <test-case start='1640179650250' status='failed' stop='1640179669771'>
+            <name>Verify that user should be able to register successfully</name>
+            <title>Verify that user should be able to register successfully</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='severity' value='Critical'/>
+                <label name='feature' value='Register'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.110'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect Welcome _8w018bagl to have text containing
+                
+                Expected: "weqwedqwe2qewdsafdwqedqwed"
+                Received: undefined</message>
+                <stack-trace>Error: Expect Welcome _8w018bagl to have text containing
+                
+                Expected: "weqwedqwe2qewdsafdwqedqwed"
+                Received: undefined
+                    at Context.&lt;anonymous> (C:\WebdriverIO\test\specs\/register.spec.js:29:50)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

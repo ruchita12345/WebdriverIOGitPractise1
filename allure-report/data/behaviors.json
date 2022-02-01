@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Register",
+    "children" : [ {
+      "name" : "Verify that user should be able to register successfully",
+      "uid" : "ba6bc1584855dfff",
+      "parentUid" : "ca3f8a5829bec66f8a1816ec5a87157d",
+      "status" : "failed",
+      "time" : {
+        "start" : 1640174754886,
+        "stop" : 1640174772134,
+        "duration" : 17248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "ca3f8a5829bec66f8a1816ec5a87157d"
+  } ]
+}

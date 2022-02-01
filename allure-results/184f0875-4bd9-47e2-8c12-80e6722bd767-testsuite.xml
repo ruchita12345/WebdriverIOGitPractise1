@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1640174080588' stop='1640174087390'>
+    <name>Parabank register and login scenarios</name>
+    <title>Parabank register and login scenarios</title>
+    <test-cases>
+        <test-case start='1640174080588' status='passed' stop='1640174087388'>
+            <name>Verify that user should be able to register successfully</name>
+            <title>Verify that user should be able to register successfully</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='severity' value='Critical'/>
+                <label name='feature' value='Register'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.110'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,66 @@
+{
+  "uid" : "e0fd54ea599b7e33",
+  "name" : "Verify that user should be able to register successfully",
+  "fullName" : "Parabank register and login scenarios.Verify that user should be able to register successfully",
+  "historyId" : "d80ac7afadceefc4ea90cf3c36ed52e0",
+  "time" : {
+    "start" : 1640174080588,
+    "stop" : 1640174087388,
+    "duration" : 6800
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Register"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Parabank register and login scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Parabank register and login scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user should be able to register successfully"
+  }, {
+    "name" : "package",
+    "value" : "Parabank register and login scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0fd54ea599b7e33.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "91d2ed40a65f747a",
+  "name" : "Verify that user should be able to register successfully",
+  "fullName" : "Parabank register and login scenarios.Verify that user should be able to register successfully",
+  "historyId" : "d80ac7afadceefc4ea90cf3c36ed52e0",
+  "time" : {
+    "start" : 1640174124328,
+    "stop" : 1640174141951,
+    "duration" : 17623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect  to have text containing\n                \n                Expected: \"weqwedqwe2qewdsafdwqedqwed\"\n                Received: undefined",
+  "statusTrace" : "Error: Expect  to have text containing\n                \n                Expected: \"weqwedqwe2qewdsafdwqedqwed\"\n                Received: undefined\n                    at Context.<anonymous> (C:\\WebdriverIO\\test\\specs\\/register.spec.js:29:50)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Register"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "Critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Parabank register and login scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "Parabank register and login scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user should be able to register successfully"
+  }, {
+    "name" : "package",
+    "value" : "Parabank register and login scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91d2ed40a65f747a.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}
